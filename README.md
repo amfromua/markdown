@@ -1,4 +1,3 @@
-Roman Andreev M3307
 Anton Miroshnichenko M3307
 
 
